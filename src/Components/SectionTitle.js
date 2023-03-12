@@ -8,6 +8,7 @@ const SectionTitle = ({ title, colored, sx }) => {
                 sx={{
                     fontWeight: "bold",
                     textAlign: "center",
+                    fontSize: { xs: "14px", sm: "14px", md: "22px" },
                     ...sx,
                 }}
             >

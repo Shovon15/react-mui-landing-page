@@ -51,6 +51,7 @@ export const ColorContextProvider = ({ children }) => {
             text: {
                 light: "#b3b3b3",
                 blue: "#5502B5",
+                purple: "#7703FC",
             },
 
             components: {
